@@ -102,3 +102,25 @@ h2 {
     color: #1F2937;
     margin-bottom: 40px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    text-align: center;
+}
+
+.quote h4 {
+    color: #1F2937;
+    font-size: 32px;
+    font-family: cursive;
+    padding-top: 45px;
+    margin: 0;
+    font-weight: 50;
+}
+
+.quote p {
+    margin-left: 70%;
+    padding-bottom: 45px;
+    color: #1F2937;
+    font-weight: 900;
+    font-size: 18px;
+}
