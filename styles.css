@@ -44,3 +44,34 @@ a {
     color: #E5E7EB;
     margin-right: auto;
 }
+
+.intro {
+    padding: 12px 125px;
+    display: flex;
+}
+
+.img {
+    width: 350px;
+    margin-left: auto;
+}
+
+.hero h2 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero .button {
+    background-color: #3882f6;
+    color: #E5E7EB;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-weight: 900;
+    font-size: 17px;
+}
