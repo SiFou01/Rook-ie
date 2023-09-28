@@ -75,3 +75,29 @@ a {
     font-weight: 900;
     font-size: 17px;
 }
+
+h2 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+    color: #1F2937;
+    margin-bottom: 45px;
+}
+
+.courses {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.box {
+    width: 160px;
+    height: 160px;
+    border: #3882f6 solid 4px;
+    border-radius: 13px;
+}
+
+.courses div {
+    text-align: center;
+    color: #1F2937;
+}
