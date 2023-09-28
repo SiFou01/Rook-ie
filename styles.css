@@ -124,3 +124,52 @@ h2 {
     font-weight: 900;
     font-size: 18px;
 }
+
+.end {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    margin-bottom: 50px;
+}
+
+.sign-up {
+    padding: 40px 25px;
+    background-color: #3882f6;
+    display: flex;
+    border-radius: 5px;
+    gap: 20px;
+    width: 70%;
+    justify-content: space-between;
+}
+
+.sign-up a {
+    background-color: #3882f6;
+    color: #E5E7EB;
+    border: 2px #E5E7EB solid;
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-weight: 900;
+    font-size: 17px;
+    align-self: center;
+    flex-shrink: 0;
+    margin-right: 10%;
+}
+
+.sign-up h4 {
+    color: #F9FAF8;
+    margin: 0;
+    font-size: 25px;
+    margin-bottom: 3px;
+}
+
+.sign-up p {
+    color: #F9FAF8;
+    margin: 0;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.sign-up div {
+    margin-left: 10%;
+}
