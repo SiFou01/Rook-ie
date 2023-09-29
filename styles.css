@@ -85,12 +85,12 @@ a {
     font-weight: 900;
     margin-bottom: 0;
     margin-top: 0;
+    text-align: initial;
 }
 
 .hero p {
     font-size: 18px;
     color: #E5E7EB;
-    text-align: center;
 }
 
 .hero .button {
@@ -160,6 +160,7 @@ h2 {
     color: #1F2937;
     font-weight: 900;
     font-size: 18px;
+    text-align: initial;
 }
 
 .end {
@@ -206,6 +207,7 @@ h2 {
     margin: 0;
     font-size: 15px;
     font-weight: 500;
+    text-align: initial;
 }
 
 .sign-up div {
