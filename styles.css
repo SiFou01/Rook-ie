@@ -164,8 +164,8 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 .sign-up {
@@ -173,9 +173,11 @@ h2 {
     background-color: #3882f6;
     display: flex;
     border-radius: 5px;
-    gap: 20px;
-    width: 70%;
-    justify-content: space-between;
+    gap: 10px;
+    min-width: 70%;
+    max-width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .sign-up a {
@@ -188,7 +190,6 @@ h2 {
     font-size: 17px;
     align-self: center;
     flex-shrink: 0;
-    margin-right: 10%;
 }
 
 .sign-up h4 {
@@ -206,7 +207,8 @@ h2 {
 }
 
 .sign-up div {
-    margin-left: 10%;
+    flex-basis: 296px;
+    text-align: center;
 }
 
 .footer {
